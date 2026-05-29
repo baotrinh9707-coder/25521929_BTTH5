@@ -13,7 +13,6 @@
 | `bai2_lab5` | Quản lý giao dịch BĐS (Đất, Nhà, Chung cư) | Kế thừa, ghi đè hàm tính tiền theo hệ số riêng của từng loại giao dịch. |
 | `bai3_lab5` | Quản lý Sinh viên (Cao đẳng, Đại học) | Hàm thuần ảo kiểu `bool` xét điều kiện tốt nghiệp, lọc danh sách sinh viên. |
 | `bai4_lab5` | Công ty phần mềm (Lập trình, Kiểm chứng) | Xử lý Input Validation (bẫy lỗi số âm), thống kê lương Min/Max, Lương trung bình. |
-| `bai5_lab5` | Nông trại gia súc (Bò, Cừu, Dê) | So sánh Liên kết động (Dynamic Binding) vs tĩnh. Mô phỏng sinh con, cho sữa bằng hàm `rand()`. |
 | `bai6_lab5` | Quản lý khách hàng (Loại A, B, C) | Kết hợp Đa hình với Đọc/Ghi file văn bản (`XYZ.INP`, `XYZ.OUT`), logic hàm `min` tính giới hạn khuyến mãi. |
 
 ---
